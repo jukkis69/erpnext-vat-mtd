@@ -1,5 +1,7 @@
 # UK VAT Module
 
+This module is modified version from the originally created one. 
+
 The UK VAT module is an application for ERPNext to extend it to include:
 
  * A VAT Return generator for UK/EU VAT. This uses data from your invoices to automatically
